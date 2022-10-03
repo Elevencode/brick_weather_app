@@ -22,3 +22,17 @@ An app has to acceptance criteria down below:
 4. SharedPreferences as local storage wrapper to keep city name
 
 
+## Screenshots
+
+Screen #1:
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-03 at 22 50 12](https://user-images.githubusercontent.com/14857315/193645394-d4de74ec-c036-48ed-a56d-21dc2f578918.png)
+
+Screen #2
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-03 at 22 50 22](https://user-images.githubusercontent.com/14857315/193645500-a33bea34-00a9-4766-8b3a-7127ec0a6bc8.png)
+
+Screen #3
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-03 at 22 50 27](https://user-images.githubusercontent.com/14857315/193645558-2cdabf3c-cb3f-4f81-99c8-80aa8b15b8ab.png)
+
